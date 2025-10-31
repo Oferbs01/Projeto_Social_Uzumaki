@@ -24,8 +24,7 @@ O projeto foi desenvolvido seguindo as diretrizes WCAG 2.1 Nível AA, garantindo
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
-    cd projeto-social-uzumaki
+    git clone (https://oferbs01.github.io/Projeto_Social_Uzumaki/)
     ```
 2.  **Abra os Arquivos:**
     Abra `index.html` no seu navegador. O site é totalmente estático e não requer servidor.
